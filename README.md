@@ -20,6 +20,50 @@ The dashboard is structured across **6 analytical pages**, each purpose-built fo
 
 ---
 
+## Dashboard Preview
+
+### 📊 FP&A Model Summary
+Executive-level KPI overview with budget vs. actual performance and variance flags for senior leadership.
+
+<img width="1143" height="611" alt="FP&A Model Summary" src="https://github.com/user-attachments/assets/cd89b46a-d417-47e6-976c-87f53b9bfa38" />
+
+---
+
+### 📈 Sales Analysis
+Revenue breakdown by product line, region, and sales channel — with trend analysis across FY2025.
+
+<img width="1157" height="652" alt="Sales Analysis" src="https://github.com/user-attachments/assets/82fa7e2b-e2fe-4e39-8a58-07c37cf1a463" />
+
+---
+
+### 👥 Customer Intelligence
+Cohort analysis, customer lifetime value (CLV) segmentation, and acquisition trend tracking across 50 customers.
+
+<img width="1120" height="635" alt="Customer Intelligence" src="https://github.com/user-attachments/assets/eadef873-3eb5-472c-93d1-cc19044248f7" />
+
+---
+
+### 💰 Profitability Analysis
+Gross margin, contribution margin, and EBITDA drill-down — fully dynamic with slicers by segment, region, and product.
+
+<img width="1148" height="647" alt="Profitability Analysis" src="https://github.com/user-attachments/assets/8f548ee5-d145-48ba-9fe6-d0b667317e93" />
+
+---
+
+### 🗓️ Customer Aging Report
+Receivables aging schedule (0–30, 31–60, 61–90, 90+ days) with conditional formatting to surface high-risk overdue balances.
+
+<img width="1153" height="650" alt="Customer Aging Report" src="https://github.com/user-attachments/assets/0c0b8b0d-1001-44e1-80db-99d7262ef122" />
+
+---
+
+### 🔮 Scenario / What-If Analysis
+The standout page. Adjust revenue growth, cost ratios, and pricing assumptions via sliders — the Revenue-to-EBITDA bridge recalculates in real time using pure DAX.
+
+<img width="1161" height="653" alt="Scenario Analysis" src="https://github.com/user-attachments/assets/5393b4ee-caf2-4600-bdb1-806dbf9413cd" />
+
+---
+
 ## Key Features
 
 ### Revenue-to-EBITDA Bridge
@@ -63,13 +107,6 @@ The dataset was purpose-built to reflect realistic FP&A complexity:
 
 ---
 
-## Dashboard Preview
-
-> Screenshots and full walkthrough available on request.  
-> Contact: [jamil.akhunzada@gmail.com](mailto:jamil.akhunzada@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jamil-ur-rehman-acca/)
-
----
-
 ## Why This Project
 
 Most Power BI portfolios stop at sales charts and bar graphs. This project goes further:
@@ -91,7 +128,3 @@ ACCA · FMVA · BIDA · MSc Economics
 6+ years across FP&A, financial modelling, M&A due diligence, and Power BI development in multi-entity environments.
 
 [LinkedIn](https://www.linkedin.com/in/jamil-ur-rehman-acca/) | [jamil.akhunzada@gmail.com](mailto:jamil.akhunzada@gmail.com)
-
-
-
-
